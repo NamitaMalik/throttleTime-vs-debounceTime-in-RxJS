@@ -54,4 +54,4 @@ So how does `throttleTime` works?
 * Timer remains enabled for the `x` duration passed as a param to the `throttleTime` operator.
 * As soon as `x` duration passes, timer is disabled and the process repeats for the next source value.
 
-[Here](https://jsfiddle.net/namita1990/4L9212x7/13/) is a working snippet for this small demo.
+[Here](https://jsfiddle.net/namita1990/4L9212x7/13/) is a working demo.
