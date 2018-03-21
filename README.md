@@ -1,4 +1,4 @@
-#throttleTime in RxJS
+# throttleTime in RxJS
 
 We all know that the Reactive Extensions for JavaScript (RxJS) is a library for composing asynchronous and event-based programs. RxJS comes with wide range of operators and in this blog we will discuss about `throttleTime` which is one of the operators.
 
