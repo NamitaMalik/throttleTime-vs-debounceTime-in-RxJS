@@ -47,7 +47,7 @@ Rx.Observable.fromEvent(button,'click').throttleTime(2000).subscribe(incrementCo
 
 *throttleTime in action*
 
-![throttleTime on click](throttleTime-in-RxJS/throttleTime_on_click.gif)
+![throttleTime on click](https://github.com/NamitaMalik/throttleTime-in-RxJS/blob/master/throttleTime_on_click.gif)
 
 
 So when first time you click the button, `0` would be printed and then even if you click the button again multiple times, `1` would be printed only after 2 seconds.
@@ -109,14 +109,14 @@ images, as they might help clear the confusion:
 
 *throttleTime on input*
 
-![throttleTime](throttleTime-in-RxJS/throttleTime.gif)
+![throttleTime](https://github.com/NamitaMalik/throttleTime-in-RxJS/blob/master/throttleTime.gif)
 
 We can notice here that value was emitted once in a second. This was not our intention,
 as we need the most recent value emitted by the observable in this case.
 
 *debounceTime in input**
 
-![debounceTime](throttleTime-in-RxJS/debunceTime.gif)
+![debounceTime](https://github.com/NamitaMalik/throttleTime-in-RxJS/blob/master/debunceTime.gif)
 
 In the above gif you would have noticed that most recent value is emitted
 and the older value is dropped, which was the intention.
