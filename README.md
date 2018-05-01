@@ -125,5 +125,12 @@ So next time when we have to restrict multiple clicks at a time on a button
 or have to fetch data on the basis of keyed in value, we know which operators
 to use!
 
+Follow Me
+---
+[Github](https://github.com/NamitaMalik)
 
+[Twitter](https://twitter.com/namita13_04)
 
+[LinkedIn](https://in.linkedin.com/in/namita-malik-a7885b23)
+
+[More Blogs By Me](https://namitamalik.github.io/)
