@@ -114,7 +114,7 @@ images, as they might help clear the confusion:
 We can notice here that value was emitted once in a second. This was not our intention,
 as we need the most recent value emitted by the observable in this case.
 
-*debounceTime in input**
+*debounceTime on input*
 
 ![debounceTime](https://github.com/NamitaMalik/throttleTime-in-RxJS/blob/master/debunceTime.gif)
 
